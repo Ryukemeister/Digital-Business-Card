@@ -1,0 +1,45 @@
+.middle-part {
+  padding: 20px 20px;
+  background-color: #1a1b21;
+  margin: 0;
+}
+
+.hero-info {
+  text-align: center;
+}
+
+.hero-name {
+  margin: 0;
+  font-size: 25px;
+}
+
+.hero-job-title {
+  margin: 0;
+  font-size: 12.8px;
+  font-weight: 400;
+  color: #f3bf99;
+  margin: 0 0 8px 0;
+}
+
+.hero-website {
+  margin: 0;
+  font-size: 10.24px;
+  font-weight: 400;
+  margin: 0 0 12px 0;
+}
+
+.email-btn {
+  width: 180px;
+  cursor: pointer;
+  color: #374151;
+}
+
+.hero-about-and-interest {
+  font-size: 16px;
+  margin: 20px 0 5px 0;
+}
+
+.hero-desc {
+  font-size: 10.24px;
+  margin: 0;
+}

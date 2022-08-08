@@ -1,0 +1,12 @@
+.bottom-part {
+  padding: 15px 0;
+  text-align: center;
+  background-color: #161619;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+.bottom-part img {
+  padding: 0 5px;
+  cursor: pointer;
+}
